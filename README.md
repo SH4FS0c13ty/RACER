@@ -7,8 +7,6 @@ RACER is a racing game where you are the red car and you have to avoid other car
 ![Menu](https://i.imgur.com/6mPDGEq.png)
 ![Game](https://i.imgur.com/rk1oJ5e.png)
 ![Crash](https://i.imgur.com/OEcEQal.png)
-![Unknown](https://i.imgur.com/tT3wbgL.png)
-![Unknown2](https://i.imgur.com/p7q0Uiy.png)
 
 ## Requirements
 
