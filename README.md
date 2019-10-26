@@ -30,8 +30,8 @@ RACER is using different keys on the keyboard to play. These keys are listed bel
 | DOWN | K_DOWN | Make the car slow down  |
 | LEFT | K_LEFT | Turn left |
 | RIGHT | K_RIGHT | Turn right |
-| ENTER | K_RETURN | Exit in menus |
-| SPACE | K_SPACE | Start in menus |
+| ENTER | K_RETURN | Exit in menu |
+| SPACE | K_SPACE | Start in menu |
 | C | K_c | Crash the car and end the game |
 | ? | ? | ? Unknown ? |
 
